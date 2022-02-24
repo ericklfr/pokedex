@@ -1,0 +1,22 @@
+.card-container {
+  cursor: pointer;
+  .image {
+    background-color: #f2f2f2;
+    border-radius: 20px;
+  }
+
+  .id {
+    padding: 0 20px;
+    color: #919191;
+    margin: 5px 0;
+    font-size: 12px;
+  }
+
+  .name {
+    padding: 0 20px;
+    font-weight: 500;
+    text-transform: capitalize;
+    color: #313131;
+    margin-bottom: 5px;
+  }
+}
